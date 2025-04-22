@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Generative AI Engineer",
+    "platform": "Edureka",
+    "date": "Apr 2025",
+    "image": "",
+    "link": "https://www.edureka.co/certificates/mycertificate/98eacaaf4c84a16bd161c8a832dad6c9",
+    "description": "Earned hands-on experience in building and deploying Generative AI solutions with real-world case studies using advanced AI tools."
+  },
+  {
+    "title": "API Development Workshop",
+    "platform": "Cloudypedia",
+    "category": "",
+    "date": "Sep 2024",
+    "image": "",
+    "link": "https://www.linkedin.com/in/abdullah-aldhafeeri-481b14240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    "description": "Mastered API lifecycle management using Apigee, including API design, security policies, versioning, and performance monitoring."
+  },
+  {
+    "title": "Automation Developer Associate",
+    "platform": "UiPath Academy",
+    "category": "",
+    "date": "Jul 2024",
+    "image": "",
+    "link": "https://credentials.uipath.com/3d1ec429-200d-433f-b072-f701c35ef2dd#acc.R52jahWN",
+    "description": "Developed automation workflows using UiPath Studio, with in-depth understanding of RPA concepts, variables, selectors, and control flow."
+  },
+  {
+    "title": "Foundations of Coding Full-Stack",
+    "platform": "Microsoft",
+    "date": "Jan 2025",
+    "link": "https://www.linkedin.com/in/abdullah-aldhafeeri-481b14240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    "description": "Covered the basics of full-stack web development including HTML, CSS, JavaScript, and server-side programming with hands-on labs."
+  },
+  {
+    "title": "Practical Application of Generative AI for Project Managers",
+    "platform": "Project Management Institute",
+    "date": "Feb 2025",
+    "link": "https://www.linkedin.com/in/abdullah-aldhafeeri-481b14240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    "description": "Explored the strategic use of Generative AI in project management, focusing on planning, decision-making, and automation enhancement."
+  },
+  {
+    "title": "UI Automation and Selectors",
+    "platform": "UiPath Academy",
+    "date": "Jul 2024",
+    "link": "https://coursera.org/share/149cc4a6607f6294c37010c736093aa2",
+    "description": "Learned advanced UI automation techniques using UiPath, including dynamic selectors, element interaction, and debugging methods."
+  }
+]

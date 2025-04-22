@@ -1,0 +1,77 @@
+{
+  "HELLO": "Hello",
+  "WELCOME": "Welcome to my profile",
+  "HOME": "Home",
+  "ABOUTME": "Skills",
+  "SERVICES": "Certificates",
+  "READMORE": "Read More",
+
+  "FOOTER": {
+    "DESCRIPTION": "I'm a passionate fullstack developer specialized in building modern, responsive web applications using Angular, .NET, and cloud technologies. I love turning ideas into real digital products with clean, scalable code.",
+    "COPYRIGHT": "All rights reserved."
+  },
+
+
+  "TECHNICAL_SKILLS": "Technical Skills",
+  "SLIDES": [
+    {
+      "title": "UiPath Automation",
+      "description": "UiPath enables businesses to automate repetitive tasks, reduce human error, and boost efficiency through powerful visual workflows."
+    },
+    {
+      "title": "Angular Frontend",
+      "description": "Angular helps you build fast, scalable web apps with a modular structure and powerful data binding."
+    },
+    {
+      "title": "IT Integration",
+      "description": "IT Integration connects diverse systems and applications, enabling seamless data flow, automation, and improved decision-making across the organization."
+    }
+  ],
+  "FEATURES": [
+    {
+      "title": "RPA",
+      "description": "Robotic Process Automation helps automate repetitive tasks using tools like UiPath."
+    },
+    {
+      "title": "Frontend",
+      "description": "Frontend development focuses on building responsive, interactive UIs using Angular."
+    },
+    {
+      "title": "Backend",
+      "description": "Backend development manages server-side logic, databases, and APIs to power applications."
+    },
+    {
+      "title": "Apigee",
+      "description": "Apigee is an API management platform that helps design, secure, and analyze APIs."
+    }
+  ],
+  
+    "HERO": {
+      "TITLE": "Hello, I'm",
+      "NAME": "Abdullah Aldhafeeri",
+      "ROLE": "Software Engineer | RPA & Frontend Developer",
+      "DESCRIPTION": "I build smart, scalable, and elegant web applications and automate business processes using modern tools.",
+      "WORK": "View My Work",
+      "CONTACT": "Contact Me"
+    },
+    "ABOUT": {
+      "TITLE": "About Me",
+      "SUBTITLE": "Who am I?",
+      "P1": "I'm a software engineer specialized in Frontend Development and RPA (Robotic Process Automation). I help businesses streamline their processes and build elegant user interfaces using technologies like Angular and UiPath.",
+      "P2": "I’m passionate about crafting clean code, intuitive experiences, and impactful digital solutions that enhance productivity and performance.",
+      "EMAIL": "6tta493@gmail.com",
+      "DEGREE": "Bachelor's in Software Engineering and Web Development",
+      "LOCATION": "Riyadh, Saudi Arabia",
+      "JOB": "Software Engineer at the National Water Company"
+    },
+    
+    
+      "CERTIFICATES": {
+        "TITLE": "My Certificates & Qualifications",
+        "SUBTITLE": "A collection of certifications and qualifications I've earned in various fields of tech and development.",
+        "VIEW": "View Certificate"
+      }
+    
+    
+    
+}
